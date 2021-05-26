@@ -8,7 +8,7 @@ A chatbot is a humanoid peice of software, which is capable of communicating and
 
 # Installation
 It can run on any OS with having python3.
- 1. First modify the intent based on opinion
- 2. Run the train.py to create a model
- 3. Run GUI.py to start chatting with bot
+ 1. First modify the `intent.json` based on opinion
+ 2. Run the `train.py` to create a model
+ 3. Run `GUI.py` to start chatting with bot
 
