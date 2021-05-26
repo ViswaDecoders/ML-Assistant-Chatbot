@@ -1,4 +1,4 @@
-# ML-Assistant-Chtbot(SARA)
+# ML-Assistant-Chatbot(*SARA*)
 A chatbot is a humanoid peice of software, which is capable of communicating and to perform actions.Chatbots are used a lot in customer interaction, marketing on social network sites and instantly messaging the client. Here it an Retrieval UI based Chatbot specially made for the purpose to drive the customers, to get understand the customers values.A well defined preprocessed the input of the user with NLTK tools, and based on the data an excellent model is created using keras, with a deep neural network of 3 layers.
 
 # Source Code
